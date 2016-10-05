@@ -11,6 +11,11 @@
 .row:first-child .col{
   margin-top:.75em;
 }
+.bk{
+  background: linear-gradient(#777, #000);
+  border: 1px solid #000;
+  visibility: hidden;
+}
 .col{
   width:1.5em;
   height:1.5em;
