@@ -8,10 +8,10 @@
 .row{
   margin-left:.75em;
 }
-.row.r1 .col{
+.row:first-child .col{
   margin-top:.75em;
 }
-div.col{
+.col{
   width:1.5em;
   height:1.5em;
   border: 1px solid #ccc;
