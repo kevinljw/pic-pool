@@ -12,6 +12,15 @@ body{
   vertical-align: top;
   margin: 8px 0px;
 }
+.wcol{
+  display:flex;
+  width:200px;
+  height:40px;
+  background: #f5f1e9;
+  border:1px solid #000;
+  vertical-align: top;
+  margin: 8px 0px;
+}
 .flex-item{
   width:40px;
   height:40px;
