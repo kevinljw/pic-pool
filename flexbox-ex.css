@@ -4,9 +4,17 @@ body{
   color:#fff;
 }
 .col{
-  display:inline-flex;
+  display:flex;
   width:120px;
   height:120px;
+  background: #f5f1e9;
+  border:1px solid #000;
+  vertical-align: top;
+}
+.wcol{
+  display:flex;
+  width:300px;
+  height:40px;
   background: #f5f1e9;
   border:1px solid #000;
   vertical-align: top;
